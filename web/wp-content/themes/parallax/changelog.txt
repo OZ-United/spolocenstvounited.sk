@@ -1,0 +1,33 @@
+Parallax Free Changelog
+
+****************************
+
+Version 1.0.7 (3-5-14)
+- Fixed conflict between blog post excerpt option and bbpress user profile page.
+- Set up element options defaults for better wp.org preview.
+- Added filter for background default args.
+- HTML Error fix: Added space before menu>li>attribute.
+
+Version 1.0.6 (2-27-14)
+- Updated elements images along with boxes images.
+- Fixed Read more text option.
+- Responsive toggle fix: tweaked full-width-container width.
+- Background option fix.
+- Removed post format icon from page.
+- Updated screenshot.
+
+Version 1.0.5 (2-18-14)
+- Slider is made to be start sliding on page load.
+
+Version 1.0.3 - 1.0.4 (02-13-14)
+
+- Updated translations
+- Fixed parallax bug
+
+Version 1.0.1 - 1.0.2 (02-07-14)
+
+- Initial bug fixes
+
+Version 1.0.0 (12-5-13)
+
+- Initial Release

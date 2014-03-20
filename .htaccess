@@ -1,0 +1,3 @@
+AddType application/x-httpd-php53 .php
+AddType application/x-httpd-php5 .php52
+AddType application/x-httpd-php .php4
